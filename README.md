@@ -1,6 +1,6 @@
 # Hi everyone, I'm Benoît.
 
-![banner](https://media.licdn.com/dms/image/C4D16AQHOsZsCT3Enyw/profile-displaybackgroundimage-shrink_350_1400/0/1654538114640?e=1711584000&v=beta&t=n-b6PBFhrCkzl72un6-6iKwV2-Q16yZIpYeFWcu92RE)
+![banner](./vandanjon_banner.jpeg)
 
 While I'm waiting to create my army of robots to take over the world, I'm a React.js trainer for the time being in the Wild Code School company.
 
